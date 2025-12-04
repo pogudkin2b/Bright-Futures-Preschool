@@ -167,7 +167,7 @@ export default function Hero() {
                 {/* Image container */}
                 <div className="relative overflow-hidden blob-2 shadow-soft-lg">
                   <img
-                    src="/main_pic.png"
+                    src="/main_pic.webp"
                     alt="Bright Futures Preschool"
                     className="w-full h-[450px] md:h-[550px] object-cover"
                   />

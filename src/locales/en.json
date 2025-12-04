@@ -1,0 +1,285 @@
+{
+  "nav": {
+    "about": "About Us",
+    "curriculum": "Curriculum",
+    "routine": "Daily Routine",
+    "specialists": "Specialists",
+    "groups": "Groups",
+    "teachers": "Teachers",
+    "montessori": "Montessori",
+    "contacts": "Contacts"
+  },
+  "hero": {
+    "title": "Bright Futures Preschool",
+    "subtitle": "Montessori-based International Preschool in Vake, Tbilisi",
+    "description": "A warm, academic, play-based preschool for children aged 18 months to 6 years.",
+    "cta": "Learn More",
+    "contact": "Contact Us"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Where Every Child Shines",
+    "principal": "Principal: Tamar Kipiani",
+    "description": "Bright Futures Preschool has been operating since August 1, 2015. We create a warm, supportive atmosphere where children develop independence, cognitive skills, and social abilities through Montessori and High/Scope pedagogies.",
+    "highlights": [
+      "Founded in 2015 by Tamar Kipiani",
+      "Montessori & High/Scope approach",
+      "Focus on independence and cognitive development",
+      "Warm, supportive environment"
+    ]
+  },
+  "curriculum": {
+    "title": "Our Curriculum",
+    "subtitle": "Learn Through Play and Discovery",
+    "description": "We combine Montessori methods with High/Scope pedagogy to create a rich learning environment.",
+    "items": [
+      {
+        "title": "Montessori Approach",
+        "description": "Self-directed activities with hands-on materials that foster independence and natural curiosity."
+      },
+      {
+        "title": "High/Scope Method",
+        "description": "Active learning through planning, doing, and reflecting on experiences."
+      },
+      {
+        "title": "Academic Foundation",
+        "description": "Pre-math, alphabet, colors, shapes, and early literacy skills."
+      },
+      {
+        "title": "Social Development",
+        "description": "Building social skills, empathy, and cooperation through group activities."
+      },
+      {
+        "title": "Motor Skills",
+        "description": "Fine and gross motor development through purposeful activities and play."
+      },
+      {
+        "title": "Independence",
+        "description": "Encouraging self-sufficiency and confidence in daily routines."
+      }
+    ]
+  },
+  "routine": {
+    "title": "Daily Routine",
+    "subtitle": "A Structured Day Full of Discovery",
+    "schedule": [
+      { "time": "8:30 - 9:00", "activity": "Arrival & Morning Activities" },
+      { "time": "9:00 - 9:30", "activity": "Breakfast" },
+      { "time": "9:30 - 10:00", "activity": "Circle Time" },
+      { "time": "10:00 - 11:00", "activity": "Center Time (Learning Activities)" },
+      { "time": "11:00 - 12:00", "activity": "Outside Play" },
+      { "time": "12:00 - 12:30", "activity": "Lunch" },
+      { "time": "12:30 - 1:30", "activity": "Specialist Activities" },
+      { "time": "1:30 - 2:00", "activity": "Snack" },
+      { "time": "2:00 - 3:00", "activity": "Russian Language Class" },
+      { "time": "3:00 - 3:30", "activity": "Quiet Time / Story Time" },
+      { "time": "3:30 - 6:00", "activity": "Free Play & Departures" }
+    ]
+  },
+  "specialists": {
+    "title": "Specialist Programs",
+    "subtitle": "Enriching Activities Beyond the Classroom",
+    "items": [
+      { "name": "Art", "description": "Creative expression through various art mediums" },
+      { "name": "Pottery", "description": "Hands-on clay work developing fine motor skills" },
+      { "name": "Science", "description": "Exploring the natural world through experiments" },
+      { "name": "Dancing", "description": "Movement and rhythm activities" },
+      { "name": "Gymnastics", "description": "Physical development and coordination" },
+      { "name": "Ballet", "description": "Classical dance and grace" },
+      { "name": "Karate", "description": "Discipline and physical fitness" }
+    ]
+  },
+  "fieldTrips": {
+    "title": "Field Trips",
+    "subtitle": "Learning Beyond Our Walls",
+    "description": "We organize regular educational excursions to museums, zoos, fire stations, and other venues to expand children's understanding of their community, professions, and culture."
+  },
+  "events": {
+    "title": "Special Events",
+    "subtitle": "Celebrating Together",
+    "description": "We host numerous family-friendly events throughout the year, creating memorable experiences and building our community.",
+    "items": [
+      "Halloween",
+      "Thanksgiving",
+      "Christmas",
+      "Valentine's Day",
+      "Dr. Seuss Day",
+      "St. Patrick's Day",
+      "Mother's Day",
+      "Graduation"
+    ]
+  },
+  "groups": {
+    "title": "Our Groups",
+    "subtitle": "Age-Appropriate Learning Environments",
+    "items": [
+      {
+        "name": "Group 1",
+        "age": "4-5 years old",
+        "students": "16 children",
+        "teachers": "3 teachers"
+      },
+      {
+        "name": "Group 2",
+        "age": "3-4 years old",
+        "students": "13 children",
+        "teachers": "2 teachers"
+      },
+      {
+        "name": "Group 3",
+        "age": "1.5-3 years old",
+        "students": "5 children",
+        "teachers": "2 teachers"
+      }
+    ]
+  },
+  "teachers": {
+    "title": "Meet Our Team",
+    "subtitle": "Experienced, Caring Educators",
+    "staff": [
+      {
+        "name": "Naniko Machaidze",
+        "role": "Lead Teacher",
+        "education": "AMI Montessori Certified",
+        "experience": "Over 10 years in early childhood education",
+        "languages": "Georgian, English, Russian"
+      },
+      {
+        "name": "Mariam Mamulashvili",
+        "role": "Teacher",
+        "education": "Early Childhood Education Degree",
+        "experience": "8 years with young children",
+        "languages": "Georgian, English"
+      },
+      {
+        "name": "Mzia Korashvili",
+        "role": "Teacher",
+        "education": "Pedagogy Specialist",
+        "experience": "6 years in preschool education",
+        "languages": "Georgian, Russian"
+      },
+      {
+        "name": "Elene Kopaliani",
+        "role": "Assistant Teacher",
+        "education": "Child Development Certificate",
+        "experience": "5 years working with toddlers",
+        "languages": "Georgian, English"
+      },
+      {
+        "name": "Natia Shariqadze",
+        "role": "Teacher",
+        "education": "Early Education Specialist",
+        "experience": "7 years in Montessori education",
+        "languages": "Georgian, English"
+      },
+      {
+        "name": "Irina Tretiakova",
+        "role": "Russian Language Teacher",
+        "education": "Linguistics Degree",
+        "experience": "10+ years teaching Russian",
+        "languages": "Russian, Georgian, English"
+      },
+      {
+        "name": "Lia Gelashvili",
+        "role": "Music Teacher",
+        "education": "Music Education Degree",
+        "experience": "8 years teaching music to children",
+        "languages": "Georgian, English"
+      },
+      {
+        "name": "Inga Kavelashvili",
+        "role": "Art Teacher",
+        "education": "Fine Arts Degree",
+        "experience": "6 years in children's art education",
+        "languages": "Georgian"
+      },
+      {
+        "name": "Megi Lomidze",
+        "role": "Assistant Teacher",
+        "education": "Child Care Certificate",
+        "experience": "4 years with preschoolers",
+        "languages": "Georgian, English"
+      },
+      {
+        "name": "Mariam Kuprava",
+        "role": "Teacher",
+        "education": "Pedagogy Degree",
+        "experience": "5 years in early education",
+        "languages": "Georgian, Russian"
+      },
+      {
+        "name": "Nino Salakaia",
+        "role": "Assistant Teacher",
+        "education": "Early Childhood Certificate",
+        "experience": "3 years with young children",
+        "languages": "Georgian"
+      },
+      {
+        "name": "Natalia Bujiashvili",
+        "role": "Support Staff",
+        "education": "Child Care Training",
+        "experience": "5 years in preschool settings",
+        "languages": "Georgian, Russian"
+      }
+    ]
+  },
+  "montessori": {
+    "title": "Montessori Philosophy",
+    "subtitle": "Child-Centered Learning",
+    "description": "We follow AMI (Association Montessori Internationale) principles, emphasizing self-directed activity, hands-on learning with specially designed materials, and respect for each child's natural development.",
+    "principles": [
+      "Self-directed learning and independence",
+      "Hands-on, sensory-rich materials",
+      "Mixed-age classrooms for peer learning",
+      "Respect for individual development pace",
+      "Prepared environment that encourages exploration"
+    ]
+  },
+  "doodleTown": {
+    "title": "Doodle Town Program",
+    "subtitle": "English Learning Through Play",
+    "description": "We are proud to be the first preschool in Georgia to implement the Doodle Town English learning program. This innovative curriculum uses music, movement, creative activities, and TPR (Total Physical Response) methods to create an immersive English-rich environment.",
+    "benefits": [
+      "First implementation in Georgia",
+      "Music and movement-based learning",
+      "TPR activities for natural language acquisition",
+      "Rich English-language environment",
+      "Develops speech, motor skills, and critical thinking"
+    ]
+  },
+  "contacts": {
+    "title": "Contact Us",
+    "subtitle": "Visit Us and See the Difference",
+    "address": {
+      "title": "Address",
+      "value": "50 Titsian Tabidze str., Vake, Tbilisi"
+    },
+    "phone": {
+      "title": "Phone",
+      "value": "+995 599 27 09 20"
+    },
+    "email": {
+      "title": "Email",
+      "value": "tamunakip@hotmail.com"
+    },
+    "hours": {
+      "title": "Opening Hours",
+      "weekdays": "Mon-Fri: 08:30–18:00",
+      "weekend": "Sat-Sun: Closed"
+    },
+    "form": {
+      "title": "Schedule a Visit",
+      "name": "Your Name",
+      "phone": "Phone Number",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send Request",
+      "success": "Thank you! We will contact you soon."
+    }
+  },
+  "footer": {
+    "rights": "© 2025 Bright Futures Preschool. All rights reserved.",
+    "address": "50 Titsian Tabidze str., Vake, Tbilisi",
+    "phone": "+995 599 27 09 20"
+  }
+}
